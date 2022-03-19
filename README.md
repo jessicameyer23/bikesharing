@@ -29,7 +29,7 @@ Overall, we have a much higher number of rides for male subscribers and for thos
 **F.  Ride Counts:  
 Overall there are over 2M rides in August in NYC.  We need to perform additional analysis on the other months to see if there is variability in seasonality of ridership.  In addition, NYC is much larger than Des Moines, so we need to better understand what a reasonble number of rides could be expected in a smaller metropolitan area.  
 
-![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
+![image_name](https://github.com/jessicameyer23/bikesharing/blob/main/Pictures/Ride%20count.png)
 
 **G. Peak hours of August Rides**
 This graph supports the other graph showing that the peak hours of rides are during commute hours.  There could be an opportunity to offer discounts to inrease ridership during non-peak hours.  
