@@ -9,7 +9,7 @@ Overall bikes are not checked out for long periods of time.  They are generally 
 
 **B.  Checkout Times by Gender:**
 The checkout times by gender follow the same trends as the overall checkout times by user, however the data shows that there are many more males in general checking out bikes.  
-![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
+![image_name](https://github.com/jessicameyer23/bikesharing/blob/main/Pictures/Checkout%20Times%20by%20Gender.png)
 
 **C. Trips by Weekday for Each Hour:**
 There are a higher number of rides concentrated around 7-10am and 4-8pm, which is around the time that users could be commuting to and from work.  Overall, there are less rides on the wekeends.  There could be an opportunity to promote and offer discounts to increase ridership on the weekends. 
