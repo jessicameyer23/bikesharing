@@ -5,7 +5,7 @@ The purpose of this analysis is to determine whether there is a good investment 
 # Results
 A.  **Checkout Times for Users:**
 Overall bikes are not checked out for long periods of time.  They are generally checked out for less than 30 minutes, so it appears that users are checking out bikes for shorter trips, to get from point a to poitn b instead of taking bikes on trail rides or family outings.  The bikes appear to serve a distinct purpose.  
-![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
+![image_name](https://github.com/jessicameyer23/bikesharing/blob/main/Pictures/Checkout%20Times%20for%20Users%20.png)
 
 **B.  Checkout Times by Gender:**
 The checkout times by gender follow the same trends as the overall checkout times by user, however the data shows that there are many more males in general checking out bikes.  
