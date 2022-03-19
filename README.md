@@ -19,7 +19,7 @@ There are a higher number of rides concentrated around 7-10am and 4-8pm, which i
 **D. User Trips by Gender (Weekday per Hour):** 
 	There are less number of rides by women compared to males, which could be due to some factors, including having to worry about their hair getting messed up with helmets and trying to go to work and fix their hair.
 
-![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
+![image_name](https://github.com/jessicameyer23/bikesharing/blob/main/Pictures/Trips%20by%20Gender(Weekday%20Per%20Hour).png)
 
 **E. User Trips by Gender by Customer Type:**
 Overall, we have a much higher number of rides for male subscribers and for those male subscribers, it looks like they are also using the bikes more on the weekends.  We should try and increase subscriberships as well as find opportunities to promote femail subscriptions to increase female riders.
